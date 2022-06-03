@@ -4,6 +4,10 @@
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,AXN
 http://45.71.185.142:8500/play/a02y
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQw54uNyBVNiRhKZVfZWUWj4SBjnJLbHwzyzny2Ow=s900-c-k-c0x00ffffff-no-rj" ,Chile visión
+http://tv-cool.com:25461/gabjha593/056b5314ff/30520
+#EXTINF:-1,CHV HD
+http://190.110.99.102:8000/play/a005
 #EXTINF:-1,CNN Espanol
 http://45.71.185.142:8500/play/a00n
 #EXTINF:-1,Cartoon Network
@@ -64,8 +68,14 @@ http://45.71.185.142:8500/play/a011
 http://45.71.185.142:8500/play/a004
 #EXTINF:-1,HomeandHealth
 http://45.71.185.142:8500/play/a01w
+#EXTINF:-1,LA RED HD
+http://190.110.99.102:8000/play/a009
 #EXTINF:-1,MTV
 http://45.71.185.142:8500/play/a008
+#EXTINF:-1 tvg-logo="https://assets.radioagricultura.cl/2019/11/megas1.jpg",Mega CHILE
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1754
+#EXTINF:-1,MEGA HD
+http://190.110.99.102:8000/play/a008
 #EXTINF:-1,Nat Geo
 http://45.71.185.142:8500/play/a003
 #EXTINF:-1,NatGeo Kids
@@ -80,6 +90,12 @@ http://45.71.185.142:8500/play/a00c
 http://45.71.185.142:8500/play/a02z
 #EXTINF:-1,TNT
 http://45.71.185.142:8500/play/a00g
+#EXTINF:-1,TNT SPORT HD
+http://190.110.99.102:8000/play/a010
+#EXTINF:-1,TNT sport 2
+http://190.110.99.102:8000/play/a02k
+#EXTINF:-1,TVN HD
+http://190.110.99.102:8000/play/a007
 #EXTINF:-1,UNIVERSAL CINEMA
 http://181.189.254.33:8083/play/a01d/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY

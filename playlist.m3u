@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,Animal Planet
+http://181.189.254.42:8183/play/a03i/index.m3u8
 #EXTINF:-1 group-title="TV Server 2",A&E
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,AXN
@@ -46,24 +47,41 @@ http://45.71.185.142:8500/play/a010
 http://45.71.185.142:8500/play/a011
 #EXTINF:-1,History Channel
 http://45.71.185.142:8500/play/a004
-#EXTINF:-1,HomeandHealth
-http://45.71.185.142:8500/play/a01w
 #EXTINF:-1,MTV
 http://45.71.185.142:8500/play/a008
 #EXTINF:-1,065 Mega
 http://45.181.121.57:8111/play/065
 #EXTINF:-1,Nat Geo
 http://45.71.185.142:8500/play/a003
+#EXTINF:-1,062 La Red HD
+http://45.181.121.57:8111/play/062
 #EXTINF:-1,STAR CHANNEL
 http://45.71.185.142:8500/play/a00c
+#EXTINF:-1,STAR CHANNEL HD
+http://181.189.254.42:8183/play/a03o/index.m3u8
+#EXTINF:-1,STAR LIFE
+http://181.189.254.42:8183/play/a01y/index.m3u8
 #EXTINF:-1,Space
 http://45.71.185.142:8500/play/a02z
-#EXTINF:-1  group-title="ListaTV", TNT Sports
-http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=9&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: TNT SPORT 1 CHILE" tvg-logo="http://1.bp.blogspot.com/-H0bRRXbMOwo/UhEC37cIzGI/AAAAAAAAOnU/plUJ7hWqclI/s1600/cdf+NUEVO.png" group-title="DEPORTES",SPORTS: TNT SPORT 1 CHILE
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31268
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS_CL TNT SPORT 3 CHILE" tvg-logo="https://i.imgur.com/lEc55se.png" group-title="DEPORTES",SPORTS_CL TNT SPORT 3 CHILE
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31270
+#EXTINF:-1,233 TNT SPORTS HD
+http://45.181.121.57:8111/play/233
+#EXTINF:-1,234 TNT SPORTS 2
+http://45.181.121.57:8111/play/234
+#EXTINF:-1,235 TNT SPORTS 3
+http://45.181.121.57:8111/play/235
+#EXTINF:-1,TNT
+http://181.189.254.42:8183/play/a02a/index.m3u8
+#EXTINF:-1,TNT Series
+http://181.189.254.42:8183/play/a022/index.m3u8
 #EXTINF:-1,064 TVN HD
 http://45.181.121.57:8111/play/064
-
+#EXTINF:-1,UNIVERSAL CINEMA
+http://181.189.254.42:8183/play/a01d/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://181.189.254.42:8183/play/a031/index.m3u8
+#EXTINF:-1,Universal
+http://181.189.254.42:8183/play/a046/index.m3u8
+#EXTINF:-1,WARNER HD
+http://181.189.254.42:8183/play/a03p/index.m3u8
+#EXTINF:-1,Warner
+http://181.189.254.42:8183/play/a03d/index.m3u8

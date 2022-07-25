@@ -3,49 +3,37 @@
 #EXTINF:-1 group-title="TV Server 2",A&E
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,AXN
-http://45.71.185.142:8500/play/a02y
-#EXTINF:-1,Canal 13 HD
-http://45.169.148.19:8000/play/a0ys/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQw54uNyBVNiRhKZVfZWUWj4SBjnJLbHwzyzny2Ow=s900-c-k-c0x00ffffff-no-rj" ,Chile visión
-http://tv-cool.com:25461/gabjha593/056b5314ff/30520
-#EXTINF:-1,CHV HD
-http://45.169.148.19:8000/play/a0t0/index.m3u8
-#EXTINF:-1,CNN Espanol
-http://45.71.185.142:8500/play/a00n
-#EXTINF:-1,Cartoon Network
-http://45.71.185.142:8500/play/a00f
+http://45.71.185.142:8500/play/a02y4
+#EXTINF:-1,066 CHV HD
+http://45.181.121.57:8111/play/066
+#EXTINF:-1,067 Canal 13
+http://45.181.121.57:8111/play/067
 #EXTINF:-1,Cinecanal
 http://45.71.185.142:8500/play/a005
 #EXTINF:-1,Cinemax
 http://45.71.185.142:8500/play/a02w
 #EXTINF:-1,Discovery Channel
 http://45.71.185.142:8500/play/a018
-#EXTINF:-1,Discovery Home & Health
-http://45.169.148.19:8000/play/a0zw/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://45.71.185.142:8500/play/a039
-#EXTINF:-1,Disney Channel
-http://45.71.185.142:8500/play/a017
-#EXTINF:-1,ESPN 2 HD
-http://45.169.148.19:8000/play/a12l/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.169.148.19:8000/play/a0zf/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://45.169.148.19:8000/play/a10f/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.169.148.19:8000/play/a1a6/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.169.148.19:8000/play/a12r/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0gl.png",ESPN +
+http://181.174.115.86:8000/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0ki.png",ESPN 2 HD
+http://181.174.115.86:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0kh.png",ESPN 3 HD
+http://181.174.115.86:8000/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0ix.png",ESPN 4 HD
+http://181.174.115.86:8000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0kg.png",ESPN HD
+http://181.174.115.86:8000/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0ht.png",FOX SPORTS 2 HD
+http://181.174.115.86:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.174.115.86:8000/playlist/tvg-logo/a0kj.png",FOX SPORTS 3 HD
+http://181.174.115.86:8000/play/a0kj/index.m3u8
+#EXTINF:-1  group-title="ListaTV", Fox Sports Premium
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=24&f=.m3u8
 #EXTINF:-1,FX
 http://45.71.185.142:8500/play/a030
-#EXTINF:-1,FX Movies
-http://181.189.254.33:8083/play/a047/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://45.71.185.142:8500/play/a021
-#EXTINF:-1,Fox Sports 2
-http://45.71.185.142:8500/play/a01n
-#EXTINF:-1,Fox Sports 3
-http://45.71.185.142:8500/play/a01o
 #EXTINF:-1,HBO
 http://45.71.185.142:8500/play/a02v
 #EXTINF:-1,HBO 2
@@ -62,37 +50,20 @@ http://45.71.185.142:8500/play/a004
 http://45.71.185.142:8500/play/a01w
 #EXTINF:-1,MTV
 http://45.71.185.142:8500/play/a008
-#EXTINF:-1,MEGA HD
-http://45.169.148.19:8000/play/a0sj/index.m3u8
+#EXTINF:-1,065 Mega
+http://45.181.121.57:8111/play/065
 #EXTINF:-1,Nat Geo
 http://45.71.185.142:8500/play/a003
 #EXTINF:-1,STAR CHANNEL
 http://45.71.185.142:8500/play/a00c
 #EXTINF:-1,Space
 http://45.71.185.142:8500/play/a02z
-#EXTINF:-1,TNT SPORTS 2
-http://45.169.148.19:8000/play/a10p/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://45.169.148.19:8000/play/a125/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
-http://45.169.148.19:8000/play/a12k/index.m3u8
-#EXTINF:-1,TVN HD
-http://45.169.148.19:8000/play/a0sz/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://45.169.148.19:8000/play/a100/index.m3u8
-#EXTINF:-1,UNIVERSAL_CHANNEL_HD
-http://45.169.148.19:8000/play/a145/index.m3u8
-#EXTINF:-1,Universal Cinema SD
-http://45.169.148.19:8000/play/a16f/index.m3u8
-#EXTINF:-1,Universal Comedy SD
-http://45.169.148.19:8000/play/a16g/index.m3u8
-#EXTINF:-1,Universal Premiere SD
-http://45.169.148.19:8000/play/a16e/index.m3u8
-#EXTINF:-1,ViaX
-http://45.169.148.19:8000/play/a127/index.m3u8
-#EXTINF:-1,WARNER_CHANNEL_HD AAC
-http://45.169.148.19:8000/play/a146/index.m3u8
-#EXTINF:-1,Warner
-http://45.169.148.19:8000/play/a122/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://45.169.148.19:8000/play/a12h/index.m3u8
+#EXTINF:-1  group-title="ListaTV", TNT Sports
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=9&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: TNT SPORT 1 CHILE" tvg-logo="http://1.bp.blogspot.com/-H0bRRXbMOwo/UhEC37cIzGI/AAAAAAAAOnU/plUJ7hWqclI/s1600/cdf+NUEVO.png" group-title="DEPORTES",SPORTS: TNT SPORT 1 CHILE
+http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31268
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS_CL TNT SPORT 3 CHILE" tvg-logo="https://i.imgur.com/lEc55se.png" group-title="DEPORTES",SPORTS_CL TNT SPORT 3 CHILE
+http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31270
+#EXTINF:-1,064 TVN HD
+http://45.181.121.57:8111/play/064
+
